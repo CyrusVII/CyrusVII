@@ -37,5 +37,6 @@ Anche se sono ancora all'inizio della mia carriera, sono pronto a mettere in pra
 
 ## Contatti
 - **LinkedIn:** [Ciro Maresca](https://www.linkedin.com/in/ciro-maresca/)
-- **LinkTree:** [All Link]([https://www.linkedin.com/in/ciro-maresca/](https://linktr.ee/CiroMaresca))
+- **LinkTree:** [All Link](https://linktr.ee/CiroMaresca)
+
 
