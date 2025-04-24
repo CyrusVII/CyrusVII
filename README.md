@@ -1,5 +1,5 @@
 ![imgGit2](https://github.com/user-attachments/assets/ff875e42-16bd-4a7e-8340-d286d5ecb2ce)
-# Ciro Maresca - Classe 2001 | Sviluppo Software & Game Development
+# Ciro Maresca - Classe 01 | Sviluppo Software & Game Development
 🎮 **Game Developer in Crescita** | 🐍 **Appassionato di Python** | 💻 **Sviluppo Software e Programmazione**
 
 Sono un ragazzo appassionato di programmazione e **game development**. Ho iniziato il mio percorso formativo studiando **Sistemi Informativi Aziendali** e da lì ho approfondito le mie competenze con certificazioni in **Unreal Engine 5** (Game Design & Development), **Java e Spring Boot**. Attualmente, mi sto concentrando su un corso di **Python** e **Machine Learning**, con un particolare interesse per lo sviluppo di giochi.
