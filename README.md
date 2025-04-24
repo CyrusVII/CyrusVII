@@ -1,4 +1,4 @@
-![ChatGPT Image 24 apr 2025, 13_10_57](https://github.com/user-attachments/assets/35b36b41-d14e-42a5-b466-57d013bff15a)
+![imgGit2](https://github.com/user-attachments/assets/ff875e42-16bd-4a7e-8340-d286d5ecb2ce)
 # Ciro Maresca - Classe 2001 | Sviluppo Software & Game Development
 🎮 **Game Developer in Crescita** | 🐍 **Appassionato di Python** | 💻 **Sviluppo Software e Programmazione**
 
