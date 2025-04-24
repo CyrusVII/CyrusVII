@@ -1,3 +1,4 @@
+![ImgGit](https://github.com/user-attachments/assets/4579a634-d2c8-43aa-bfab-1adf9ffbe94f)
 # Ciro Maresca - Classe 2001 | Sviluppo Software & Game Development
 
 🎮 **Game Developer in Crescita** | 🐍 **Appassionato di Python** | 💻 **Sviluppo Software e Programmazione**
@@ -9,6 +10,17 @@ Sono un ragazzo appassionato di programmazione e **game development**. Ho inizia
 2. **Unreal Engine 5 - Game Design & Development** – Certificazione in game development, con focus su progettazione, creazione di giochi e dinamiche di sviluppo.
 3. **Java & Spring Boot** – Certificazione in sviluppo software, imparando uno dei linguaggi e framework più utilizzati nel mondo dell'IT.
 4. **Python & Machine Learning** – In corso, con focus su programmazione Python, manipolazione di dati, e tecniche di base di Machine Learning.
+   
+## 📂 I Miei Progetti
+
+### 🎮 [LastTest - Unreal Engine 5](https://github.com/CyrusVII/LastTest)
+Gioco 3D in prima persona sviluppato con Unreal Engine 5.
+
+### 🐍 [DataSort - Python & Pandas](https://github.com/CyrusVII/Progetto-DarkSouls)
+Un progetto ispirato a Dark Souls, sviluppato in Python utilizzando la programmazione a oggetti (OOP).
+
+### 🌐 [MyPortfolio - HTML/CSS/JS](https://github.com/CyrusVII/CiroMaresca_PythonCourse)
+La repo contenente tutto il mio percorso di formazione python.
 
 ## Cosa sto imparando
 Al momento, mi sto concentrando su questi argomenti:
