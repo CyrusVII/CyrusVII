@@ -10,9 +10,6 @@ Sono un ragazzo appassionato di programmazione e **game development**. Ho inizia
 3. **Java & Spring Boot** – Certificazione in sviluppo software, imparando uno dei linguaggi e framework più utilizzati nel mondo dell'IT.
 4. **Python & Machine Learning** – In corso, con focus su programmazione Python, manipolazione di dati, e tecniche di base di Machine Learning.
 
-## Perché mi piace Python
-Mi piace molto **Python** per la sua semplicità e versatilità, ma il mio vero focus è applicare questa conoscenza nel campo dello sviluppo di **videogiochi**. Anche se sto studiando anche **Machine Learning** per curiosità, la mia passione rimane sempre il **game development** e la creazione di mondi virtuali con strumenti come **Unreal Engine**.
-
 ## Cosa sto imparando
 Al momento, mi sto concentrando su questi argomenti:
 - **Python 3.x** e la sua applicazione in vari contesti
