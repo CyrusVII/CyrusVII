@@ -18,7 +18,7 @@ Gioco 3D in prima persona sviluppato con Unreal Engine 5.
 ### 🐍 [DataSort - Python & Pandas](https://github.com/CyrusVII/Progetto-DarkSouls)
 Un progetto ispirato a Dark Souls, sviluppato in Python utilizzando la programmazione a oggetti (OOP).
 
-### 🌐 [MyPortfolio - HTML/CSS/JS](https://github.com/CyrusVII/CiroMaresca_PythonCourse)
+### 🌐 [Python Course - Python - Pandas - Matplotlib - Seaborn...](https://github.com/CyrusVII/CiroMaresca_PythonCourse)
 La repo contenente tutto il mio percorso di formazione python.
 
 ## Cosa sto imparando
