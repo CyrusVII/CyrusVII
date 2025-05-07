@@ -21,7 +21,7 @@ Un progetto ispirato a Dark Souls, sviluppato in Python utilizzando la programma
 ### 🌐 [Python Course - Python - Pandas - Matplotlib - Seaborn...](https://github.com/CyrusVII/CiroMaresca_PythonCourse)
 La repo contenente tutto il mio percorso di formazione python.
 
-### 🎮 [SnakeGame - Html - Css - JS][Screenshot 2025-05-07 114338](https://github.com/user-attachments/assets/aa590dc7-a21b-433d-a5b0-b52f2b78a23a)
+### 🎮 [SnakeGame - Html - Css - JS](https://github.com/user-attachments/assets/aa590dc7-a21b-433d-a5b0-b52f2b78a23a)
 La repo contenente il classico gioco per cellurale Snake ma giocabile da pagina web.
 
 ## Cosa sto imparando
