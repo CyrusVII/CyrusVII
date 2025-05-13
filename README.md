@@ -24,6 +24,9 @@ La repo contenente tutto il mio percorso di formazione python.
 ### 🎮 [SnakeGame - Html - Css - JS](https://github.com/CyrusVII/SnakeGame)
 La repo contenente il classico gioco per cellurale Snake ma giocabile da pagina web.
 
+### 🧠 [Obesity Predictor Web App Python- Machine Learning - Flask - Html - Css - JS](https://github.com/CyrusVII/PredizioneDellObesita)
+La repo contenente una Web App per perdire il tipo di obesita
+
 ## Cosa sto imparando
 Al momento, mi sto concentrando su questi argomenti:
 - **Python 3.x** e la sua applicazione in vari contesti
