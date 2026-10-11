@@ -1,4 +1,5 @@
 <img width="1942" height="810" alt="Ciro Maresca_ tra codice e fantasia" src="https://github.com/user-attachments/assets/f6161792-4132-4397-aa2c-cf21935fdf72" />
+
 # Ciro Maresca - Classe 01 | Sviluppo Software & Game Development
 🎮 **Game Developer in Crescita** | 🐍 **Appassionato di Python** | 💻 **Sviluppo Software e Programmazione**
 
